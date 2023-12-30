@@ -61,3 +61,6 @@
 0.0.0.0 cdn.tinny2.tech
 0.0.0.0 cdn.lookapi.website
 0.0.0.0 phimvietsub.pro
+0.0.0.0 f8bet.ink
+0.0.0.0 67777.tv
+0.0.0.0 i9bet147.com
