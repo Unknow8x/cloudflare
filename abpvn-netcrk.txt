@@ -23,4 +23,5 @@
 0.0.0.0 67777.tv
 0.0.0.0 i9bet147.com
 0.0.0.0 i9bet168.com
-0.0.0.0 www.i9bet168.com
+127.0.0.1 fb88id.com
+127.0.0.1 refpa.top
