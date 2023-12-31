@@ -1,20 +1,3 @@
-#Adblock Plus 2.0]
-# Checksum: d1uxYUFAYTLxtOAhcyOrKw
-# Version: 20231230135236
-# Title: ABPVN List
-# Last modified: 30 Dec 2023 13:52:36 UTC+7
-# Expires: 1 days (update frequency)
-#
-# ABPVN List filter
-# Copyright: ABPVN
-# Homepage: https://abpvn.com/
-# License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
-# Please report any unblocked ads or problems by email or in our fanpage
-# Mọi thắc mắc xin gửi về email hoặc fanpage
-# Email: support@abpvn.com
-# Facebook Fanpage: https://www.facebook.com/abpvn.org
-# Forum: https://voz.vn/t/official-abpvn-bo-loc-quang-cao-cho-nguoi-viet-bao-cao-quang-cao-giai-dap-thac-mac.867616/
-# Report new issue on github: https://github.com/abpvn/abpvn/issues/new
 # ---------- Generic Blocking Rules ----------
 0.0.0.0 keonhacai5.vip
 0.0.0.0 listnhacai1.com
@@ -25,9 +8,6 @@
 0.0.0.0 i9bet168.com
 127.0.0.1 fb88id.com
 127.0.0.1 refpa.top
-0.0.0.0 /giadinhonline.vn/files/qc/
-0.0.0.0 /i.imgur.com/$domain=xemphimchill.xyz
-0.0.0.0 /i.imgur.com/
+0.0.0.0 giadinhonline.vn/files/qc/
+0.0.0.0 i.imgur.com/$domain=xemphimchill.xyz
 0.0.0.0 *.gif$domain=keonhacai5.vip|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|tvzinghd.com|xoilac96.tv|bongdainfoz.com|90phuti.tv|veboz.live|cakhiaztv.net|91p.plvb.xyz|motchillz.org|listnhacai1.com|xoilaczs.tv|xemtivingon.org|phimlongtieng.com
-0.0.0.0 /media.discordapp/$domain=phimno4.xyz|bongda21h.me
-0.0.0.0 *$xmlhttprequest,image,domain=phimmoi2.com|vuighe2.com|mehoathinh3.com
