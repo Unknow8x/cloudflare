@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="" billed-msg=""
+
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://github.com/Unknow8x/cloudflare/blob/main/kplus.png" 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://github.com/Unknow8x/cloudflare/blob/main/87.png", K+ SPORT1 
