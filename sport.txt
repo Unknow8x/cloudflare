@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://github.com/Unknow8x/cloudflare/blob/main/kplus.png" 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://github.com/Unknow8x/cloudflare/blob/main/87.png", K+ SPORT1 
+https://ctrl.laotv.la/live/K+Sport1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://github.com/Unknow8x/cloudflare/blob/main/88.png", K+ SPORT2 
+https://ctrl.laotv.la/live/K+Sport2/index.m3u8
